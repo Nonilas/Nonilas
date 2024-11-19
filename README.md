@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Achilleas Leivadiotis! 👋  
+🌍 *From Chalkidiki, Greece | Based in Maastricht, Netherlands*  
 
-<!--
-**Nonilas/Nonilas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+I’m a **Data Science & AI undergraduate student** at Maastricht University, passionate about leveraging machine learning, quantum computing, and full-stack development to solve real-world problems. My expertise spans various domains, from **neural networks** and **predictive modeling** to **web development** and **graph theory**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Technical Skills  
+- **Languages & Tools**:  
+  Python, Java, TypeScript, SQL, MATLAB, REST APIs, HTML/CSS, TensorFlow, PyTorch, scikit-learn, Git  
+- **Development Areas**:  
+  AI/ML, full-stack web development (Angular, Django), quantum computing, simulations, and data analysis.
+
+---
