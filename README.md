@@ -12,6 +12,6 @@ I’m a **Data Science & AI undergraduate student** at Maastricht University, pa
 - **Languages & Tools**:  
   Python, Java, TypeScript, SQL, MATLAB, REST APIs, HTML/CSS, TensorFlow, PyTorch, scikit-learn, Git  
 - **Development Areas**:  
-  AI/ML, full-stack web development (Angular, Django), quantum computing, simulations, and data analysis.
+  AI/ML, full-stack web development (React, NextJS, Vercel, Angular, Django), quantum computing, simulations, and data analysis.
 
 ---
