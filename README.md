@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me  
-I’m a **Data Science & AI undergraduate student** at Maastricht University, passionate about leveraging machine learning, quantum computing, and full-stack development to solve real-world problems. My expertise spans various domains, from **neural networks** and **predictive modeling** to **web development** and **data analysis**.
+I’m a **Data Science & AI undergraduate student** at Maastricht University, passionate about leveraging machine learning, quantum computing, and full-stack development to solve real-world problems. My expertise spans various domains, from **neural networks**, **computer vision**and **predictive modeling** to **web development** and **data analysis**.
 
 ---
 
