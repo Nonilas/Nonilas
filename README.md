@@ -10,10 +10,10 @@ I’m a **Data Science & AI undergraduate student** at Maastricht University, pa
 
 ## 💻 Technical Skills  
 - **Languages & Tools**:  
-  Python, Java, TypeScript, SQL, MATLAB, REST APIs, HTML/CSS, TensorFlow, PyTorch, scikit-learn, Git  
+  Python, Java, TypeScript, SQL, MATLAB, REST APIs, HTML/CSS, TensorFlow, PyTorch, scikit-learn, Git, Databricks, Apache Spark
 - **Development Areas**:  
   AI/ML, full-stack web development (React, NextJS, Vercel, Angular, Django), quantum computing, simulations, and data analysis.
 
 ---
 
-For information: achilleasleivadiotis.com
+[![Website](https://img.shields.io/badge/Website-achillesleivadiotis.com-blue)](https://achillesleivadiotis.com)
