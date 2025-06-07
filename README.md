@@ -15,3 +15,5 @@ I’m a **Data Science & AI undergraduate student** at Maastricht University, pa
   AI/ML, full-stack web development (React, NextJS, Vercel, Angular, Django), quantum computing, simulations, and data analysis.
 
 ---
+
+For information: achilleasleivadiotis.com
