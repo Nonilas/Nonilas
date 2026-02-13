@@ -2,7 +2,7 @@
 
 **Software Engineer @ EUROCONTROL MUAC** · BSc Data Science & AI · Freelance via VadioTech 🇳🇱
 
-I work on the **COAV (Contrail Avoidance)** platform at EUROCONTROL — using ground-based imagery and computer vision to detect and track contrails, helping aircraft avoid climate-impacting atmospheric regions. I independently manage the full server infrastructure: detection services, schedulers, and tracking systems running as containerized microservices on Kubernetes.
+I work on the **COAV (Contrail Avoidance)** platform at EUROCONTROL using ground-based imagery and computer vision to detect and track contrails, helping aircraft avoid climate-impacting atmospheric regions. I independently manage the full server infrastructure: detection services, schedulers, and tracking systems running as containerized microservices on Kubernetes.
 
 I'm also the owner of **VadioTech**, my freelance engineering business based in the Netherlands.
 
