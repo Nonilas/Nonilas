@@ -32,7 +32,7 @@ Intelligent image organization using Meta's DINOv3 vision transformer. 3-tier mi
 **🏗️ AI-Powered MEP Automation** — *Team Project with Equans*  
 Dual neural network system for automating MEP (Mechanical, Electrical, Plumbing) component placement in modular construction. 2x improvement over expert systems in placement accuracy.
 
-**🏠 [Kassandra Properties VIP](https://construction-company-gamma.vercel.app)** — *Family Real Estate Platform*  
+**🏠 [Kassandra Properties VIP](https://kassandraproperties.com)** — *Family Real Estate Platform*  
 Full-stack luxury real estate platform for my family's business in Halkidiki, Greece. Built with Next.js 15, React 19, Prisma, Supabase, and NextAuth with full Admin CMS.
 
 ---
