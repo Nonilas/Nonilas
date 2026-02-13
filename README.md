@@ -4,7 +4,7 @@
 
 I work on the **COAV (Contrail Avoidance)** platform at EUROCONTROL using ground-based imagery and computer vision to detect and track contrails, helping aircraft avoid climate-impacting atmospheric regions. I independently manage the full server infrastructure: detection services, schedulers, and tracking systems running as containerized microservices on Kubernetes.
 
-I'm also the owner of **VadioTech**, my freelance engineering business based in the Netherlands.
+I'm also the owner of **VadioTech**, my freelance software and consulting business based in the Netherlands.
 
 🌐 [achilleasleivadiotis.com](https://achilleasleivadiotis.com) · 💼 [LinkedIn](https://www.linkedin.com/in/achilleas-leivadiotis)
 
